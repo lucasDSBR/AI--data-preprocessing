@@ -13,7 +13,7 @@ Data preprocessing for Artificial Intelligence
 ### Categóricas
 
 #### Nominal
-- Dados não mensuáveis
+- Dados não mensuráveis
 - Sem ordenação: cor dos olhos, gênero
 
 #### Ordinal
